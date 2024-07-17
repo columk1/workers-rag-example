@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Colum-Kelly-s-workspace-5vrokt.us-west-2.xata.sh/db/rag-example",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

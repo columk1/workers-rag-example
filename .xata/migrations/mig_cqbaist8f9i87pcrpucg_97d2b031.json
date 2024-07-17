@@ -1,0 +1,22 @@
+{
+  "id": "mig_cqbaist8f9i87pcrpucg",
+  "checksum": "1:97d2b03131d581440e3a51f94dd8e01f5a74307f1dd023a0c1acdf52e2d5f713",
+  "operations": [
+    {
+      "addTable": {
+        "table": "notes"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "text",
+          "type": "text",
+          "notNull": true,
+          "defaultValue": "''"
+        },
+        "table": "notes"
+      }
+    }
+  ]
+}

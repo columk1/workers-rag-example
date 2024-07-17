@@ -1,0 +1,20 @@
+{
+	"tables": [
+		{
+			"name": "Notes",
+			"columns": [
+				{
+					"name": "text",
+					"type": "text"
+				},
+				{
+					"name": "embedding",
+					"type": "vector",
+					"vector": {
+						"dimension": 768
+					}
+				}
+			]
+		}
+	]
+}
